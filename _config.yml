@@ -1,0 +1,10 @@
+# basic options
+title: ML blogs
+author: Sumit Pandey 
+email: sumit.ai.sci@gmail.com
+description: ML Blogs
+github_username:  Sumit-ai
+
+# Build settings
+markdown: kramdown
+theme: minima
