@@ -22,14 +22,14 @@ import keras
 ## Results: 
 We compared all 5 models:
 
-Plot 1: 
+Figure 1: This figure shows the graph between  SSIM (Structure Similerity Index Measure) and image number. 
 
-<img align="center" src="newplot (1).png" width="600" />
+<img align="center" src="newplot (1).png" width="500" />
 
-Plot 2: 
+Figure  2: This figure shows the graph between IOU (Intersection over Union) and image number.
 
-<img align="center" src="newplot (2).png" width="600" />
+<img align="center" src="newplot (2).png" width="500" />
 
-Plot 3: 
+Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio) and image number.
 
-<img align="center" src="newplot (4).png" width="600" />
+<img align="center" src="newplot (4).png" width="500" />
