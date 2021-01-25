@@ -22,8 +22,13 @@ import keras
 ## Results: 
 We compared all 5 models:
 Plot 1: 
+
 <img align="center" src="newplot (1).png" width="600" />
+
 Plot 2: 
+
 <img align="center" src="newplot (2).png" width="600" />
+
 Plot 3: 
+
 <img align="center" src="newplot (4).png" width="600" />
