@@ -5,7 +5,7 @@ In This research project, we completed these steps:
 - ```Pre-process``` (Normalize and resize) the images. 
 -  train and validate the model over multiple machine-learning and deep-learning based algorithm including .
 
-### Authors: 
+``` Authors: Sumit Pandey and Prof. Kuan-Fu Chen```
 
 ## Libraries:
 ``` python 
