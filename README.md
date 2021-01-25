@@ -26,7 +26,7 @@ Figure 1: This figure shows the graph between  SSIM (Structure Similerity Index 
 
 <img align="center" src="newplot (1).png" width="500" />
 
-Figure  2: This figure shows the graph between IOU (Intersection over Union) and image number (test image id) .
+Figure  2: This figure shows the graph between IOU (Intersection over Union) and image number (test image id).
 
 <img align="center" src="newplot (2).png" width="500" />
 
