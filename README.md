@@ -19,3 +19,7 @@ import glob
 import keras 
 
 ```
+## Results: 
+<img align="center" src="newplot (1).png" width="600" />
+<img align="center" src="newplot (2).png" width="600" />
+<img align="center" src="newplot (4).png" width="600" />
