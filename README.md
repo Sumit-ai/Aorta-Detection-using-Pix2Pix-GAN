@@ -11,6 +11,12 @@ In This research project, we completed these steps:
 
 ## Libraries:
 ``` python 
+pip install tensorflow 
+pip install keras 
+pip install matplotlib 
+pip install pandas # numpy will be installed autimaticallly 
+
+
 import numpy 
 import tensorflow 
 import keras
