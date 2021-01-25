@@ -1,4 +1,4 @@
-``` Authors: Sumit Pandey and Prof. Kuan-Fu Chen```
+``` _Authors: Sumit Pandey and Prof. Kuan-Fu Chen_```
 
 
 In This research project, we completed these steps:
