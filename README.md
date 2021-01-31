@@ -25,6 +25,10 @@ import glob
 import keras 
 
 ```
+## Software Demo 
+
+<img align="center" src="ezgif.com-gif-maker (1).gif" width="800" />
+
 ## Results: 
 We compared all 5 models:
 
