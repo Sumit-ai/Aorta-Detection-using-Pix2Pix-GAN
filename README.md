@@ -11,6 +11,7 @@ In This research project, we completed these steps:
 
 ## Libraries:
 ``` python 
+pip install gradio
 pip install tensorflow 
 pip install keras 
 pip install matplotlib 
@@ -27,10 +28,12 @@ import keras
 ```
 ## Software Demo 
 
+Here is the software demonstration, this software will be upgraded with time. The web based 
+
 <img align="center" src="ezgif.com-gif-maker (1).gif" width="800" />
 
 ## Results: 
-We compared all 5 models:
+We compared all 5 models over 20 testing images here are the results:
 
 Figure 1: This figure shows the graph between  SSIM (Structure Similerity Index Measure) and image number (test image id). 
 
