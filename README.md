@@ -1,5 +1,4 @@
 ###### **``` Authors: Sumit Pandey and Prof. Kuan-Fu Chen```**
------------------------------------------------------------------
 
 In This research project, we completed these steps:
 - Collected total ```785 Ultra-Sound images``` from multiple subjects. 
