@@ -48,5 +48,5 @@ Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio)
 <img align="center" src="newplot (4).png" width="500" />
 
 --------------------------------------------------------------
-**_The dataset, complete code (training and testing) will be open sourced after publishing the paper_**`
+_The dataset, complete code (training and testing) will be open sourced after publishing the paper_
 --------------------------------------------------------------
