@@ -6,8 +6,6 @@ In This research project, we completed these steps:
 - ```Pre-process``` (Normalize and resize) the images. 
 -  train and validate the model over multiple machine-learning and deep-learning based algorithm including .
 
-`**_The dataset, complete code (training and testing) will be open sourced after publishing the paper_**`
-
 
 ## Libraries:
 -----------------------------------------------------------------
@@ -48,3 +46,7 @@ Figure  2: This figure shows the graph between IOU (Intersection over Union) and
 Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio) and image number (test image id).
 
 <img align="center" src="newplot (4).png" width="500" />
+
+--------------------------------------------------------------
+**_The dataset, complete code (training and testing) will be open sourced after publishing the paper_**`
+--------------------------------------------------------------
