@@ -5,7 +5,8 @@ In This research project, we completed these steps:
 -  ```Labeled and prepare segmentation``` the images under expert supervision.
 - ```Pre-process``` (Normalize and resize) the images. 
 -  train and validate the model over multiple machine-learning and deep-learning based algorithm including .
-**_The dataset, complete code (training and testing) will be open sourced after publishing the paper_**
+
+`**_The dataset, complete code (training and testing) will be open sourced after publishing the paper_**`
 
 
 ## Libraries:
