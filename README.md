@@ -1,6 +1,6 @@
 **``` Authors: Sumit Pandey and Prof. Kuan-Fu Chen```**
 
-In This research project, we completed these steps:
+In This research project, we developed a Pix2Pix GAN based software to detect the `abdominal aorta`. During this project we completed these steps:
 - Collected total ```785 Ultra-Sound images``` from multiple subjects. 
 -  ```Labeled and prepare segmentation``` the images under expert supervision.
 - ```Pre-process``` (Normalize and resize) the images. 
