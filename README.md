@@ -31,7 +31,7 @@ Here is the software demonstration, this software will be upgraded with time. Th
 
 <img align="center" src="ezgif.com-gif-maker (1).gif" width="800" />
 
-## GAN model Results: 
+# Pix2Pix GAN model perfromance: 
 -----------------------------------------------------------------
 We compared all 5 models over 20 testing images here are the results:
 
@@ -47,7 +47,13 @@ Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio)
 
 <img align="center" src="newplot (4).png" width="500" />
 
-based on above results, we finally selected few results:
+based on above results, we finally selected the best model and here are the results:
+
+| Command | Description | Command | Description |
+| --- | --- | --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 ### GAN training data results:
 
