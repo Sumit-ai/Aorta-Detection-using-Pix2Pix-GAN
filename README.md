@@ -7,7 +7,7 @@ In This research project, we developed a Pix2Pix GAN based software to detect th
 -  train and validate the model over multiple machine-learning and deep-learning based algorithm including .
 
 
-## Libraries:
+# Libraries:
 -----------------------------------------------------------------
 ``` python 
 pip install gradio
@@ -25,7 +25,12 @@ import glob
 import keras 
 
 ```
-## Software Demo 
+
+# Models used: 
+we compared two models (UNet, Pix2Pix GAN) in this work and finally selected the best performance model (Pix2Pix GAN). 
+
+
+# Software Demo 
 -----------------------------------------------------------------
 Here is the software demonstration, this software will be upgraded with time. The web based 
 
@@ -49,10 +54,7 @@ Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio)
 
 based on above results, we finally selected the best model and here are the results:
 
-| Command | Description | Command | Description |
-| --- | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
 
 
 ### GAN training data results:
