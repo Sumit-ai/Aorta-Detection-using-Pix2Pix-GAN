@@ -59,6 +59,11 @@ based on above results, we finally selected few results:
 <img align="center" src="validation1.png" width="500" /> <img align="center" src="validation2.png" width="500" /> <img align="center" src="validation3.png" width="500" />
 
 
+### GAN test data results:
+
+
+<img align="center" src="test data 1.png" width="500" /> <img align="center" src="test data 1.png" width="500" /> <img align="center" src="test data 1.png" width="500" />
+
 
 --------------------------------------------------------------
 _The dataset, complete code (training and testing) will be open sourced after publishing the paper_
