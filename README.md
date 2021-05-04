@@ -52,9 +52,7 @@ based on above results, we finally selected few results:
 ### GAN training data results:
 
 
-<img align="center" src="train data1.png" width="500" />
-<img align="center" src="train data2.png" width="500" />
-<img align="center" src="train data3.png" width="500" />
+<img align="center" src="train data1.png" width="500" /> <img align="center" src="train data2.png" width="500" /> <img align="center" src="train data3.png" width="500" />
 
 
 
