@@ -54,7 +54,9 @@ based on above results, we finally selected few results:
 
 <img align="center" src="train data1.png" width="500" /> <img align="center" src="train data2.png" width="500" /> <img align="center" src="train data3.png" width="500" />
 
+### GAN validation data results: 
 
+<img align="center" src="validation1.png" width="500" /> <img align="center" src="validation2.png" width="500" /> <img align="center" src="validation3.png" width="500" />
 
 
 
