@@ -31,7 +31,7 @@ Here is the software demonstration, this software will be upgraded with time. Th
 
 <img align="center" src="ezgif.com-gif-maker (1).gif" width="800" />
 
-## Results: 
+## GAN model Results: 
 -----------------------------------------------------------------
 We compared all 5 models over 20 testing images here are the results:
 
@@ -46,6 +46,19 @@ Figure  2: This figure shows the graph between IOU (Intersection over Union) and
 Figure  3: This figure shows the graph between PSNR (Peak signal-to-noise ratio) and image number (test image id).
 
 <img align="center" src="newplot (4).png" width="500" />
+
+based on above results, we finally selected few results:
+
+### GAN training data results:
+
+
+<img align="center" src="train data1.png" width="500" />
+<img align="center" src="train data2.png" width="500" />
+<img align="center" src="train data3.png" width="500" />
+
+
+
+
 
 --------------------------------------------------------------
 _The dataset, complete code (training and testing) will be open sourced after publishing the paper_
